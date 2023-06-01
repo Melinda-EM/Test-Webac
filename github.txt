@@ -1,0 +1,14 @@
+GITHUB
+
+Création de branche ==> git branch name 
+Switcher de branche ==> git switch nom branche
+Récupérer les autres fichiers ==> git pull
+Pour merge ==> new pull request -> ajouter un commentaire -> merge (attendre verif de github) -> valider le merge
+En cas de conflit pendant merge, github propose de les résoudre --> choisir ce qu'il faut garder en terme de changement
+
+Quand création de branche depuis terminal, pour push ajouter git push --set-upstream origin mabranche
+
+Petit tip, lors des commits, afin d'avoir les bonnes pratiques, indiquer au mieux ce qui est fait
+[ADD]..... pour un ajout
+[UPDATE]..... pour une modification
+[REMOVE]..... pour une suppression
